@@ -24,7 +24,7 @@ def cs_body():
 >>> np.savetxt('file.csv',arr,delimiter=',') 
 # Write to CSV file
     ''')
-    #Creating arrays
+    #Creating Arrays
     st.text('')
     col1.subheader('Creating Array')
     col1.code('''
